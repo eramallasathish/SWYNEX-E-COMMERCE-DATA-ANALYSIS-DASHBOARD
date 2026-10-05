@@ -4,7 +4,7 @@ TASK-3: SWYNEX E-COMMERCE DATA ANALYSIS DASHBOARD
 
 An interactive Power BI dashboard for exploring e-commerce order and sales performance. It brings key business metrics and several breakdowns into one view, with a month slicer to help focus the analysis.
 
-![E-Commerce Sales Dashboard](DASHBOARD%20IMAGE.png)
+<img width="1346" height="740" alt="Image" src="https://github.com/user-attachments/assets/499f5c23-9b7f-4b19-9592-f8244f7d3744" />
 
 ## Overview
 
